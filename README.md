@@ -32,3 +32,7 @@ The theme applies when a session starts.
 
 The color palette is [Penumbra](https://github.com/nealmckee/penumbra) by Neal McKee.
 This is an unofficial port.
+
+## License
+
+[MIT](LICENSE)

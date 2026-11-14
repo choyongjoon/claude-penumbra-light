@@ -2,5 +2,8 @@
   "name": "penumbra-light",
   "version": "0.1.0",
   "description": "Penumbra Light theme for the Claude desktop and mobile apps: warm sun surfaces, balanced accents and a soft eclipse backdrop",
-  "author": { "name": "choyongjoon" }
+  "author": {
+    "name": "choyongjoon"
+  },
+  "license": "MIT"
 }
