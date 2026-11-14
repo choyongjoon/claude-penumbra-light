@@ -3,6 +3,10 @@
 A light theme for the Claude desktop and mobile apps, based on the
 [Penumbra](https://github.com/nealmckee/penumbra) color palette.
 
+![Penumbra Light preview: warm light surfaces, a code block in the Penumbra accents, and the eclipse backdrop](docs/preview.png)
+
+*A rendered preview of the colors and backdrop, not a screenshot of the app.*
+
 - Warm "sun" surfaces (`#FFF7ED` to `#FFFDFB`) and neutral "shade" text (`#24272B`).
 - The balanced Penumbra accents: blue, red, green, orange and purple.
 - A soft, slowly moving eclipse backdrop, with a faint arc in the seven Penumbra colors.
