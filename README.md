@@ -19,15 +19,15 @@ The theme draws only in the desktop and mobile apps. The terminal and editors ke
 At the prompt of a Claude Code session:
 
 ```
-/plugin install penumbra-light --marketplace choyongjoon/claude-penumbra-light
+/plugin marketplace add choyongjoon/claude-penumbra-light
+/plugin install penumbra-light@claude-penumbra-light
 ```
-
-Type `y` to add the marketplace, then pick a scope.
 
 From a shell:
 
 ```bash
-claude plugin install penumbra-light --marketplace choyongjoon/claude-penumbra-light
+claude plugin marketplace add choyongjoon/claude-penumbra-light
+claude plugin install penumbra-light@claude-penumbra-light
 ```
 
 The theme applies when a session starts.
